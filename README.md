@@ -6,7 +6,7 @@ Project UAS
 
 ## PROGRAM FLOWCHART
     Ini adalah flowchart nya  :
-   ![FLOWCHART UAS](https://user-images.githubusercontent.com/45529706/56094070-1ba2cd80-5efa-11e9-8113-300e62f861d0.JPG)
+   ![FLOWCHART UAS 2](https://user-images.githubusercontent.com/45529706/56127794-26b43700-5fa8-11e9-92c0-943ee5073a38.JPG)
 
 ## TERLAMPIR HASIL DARI PROGRAM GAMBARNYA
 
